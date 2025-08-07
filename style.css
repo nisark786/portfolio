@@ -332,10 +332,10 @@ body {
   box-shadow: 0 0 0 0.2rem rgba(245, 158, 11, 0.25);
   color: white;
 }
-.btn-primary-custom{
-    background-color: #f59e0b !important;
-    border-radius: 50px !important;
-    font-weight: 600 !important;
+.btn-primary-custom {
+  background-color: #f59e0b !important;
+  border-radius: 50px !important;
+  font-weight: 600 !important;
 }
 
 .contact-info {
@@ -362,9 +362,10 @@ body {
   justify-content: center;
   margin-right: 1rem;
 }
- @media (max-width: 768px) {
-            .contact-form, .contact-info {
-                padding: 2rem;
-                margin-bottom: 2rem;
-            }
-        }
+@media (max-width: 768px) {
+  .contact-form,
+  .contact-info {
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+}
